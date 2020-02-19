@@ -31,23 +31,6 @@ npm i
 ```
 
 
-
-
-
-<br>
-
-
-
-### (Teacher) Create a new branch
-
-```bash
-git checkout -b wd-ft-mmm-yyyy
-```
-
-
-
-
-
 <br>
 
 
