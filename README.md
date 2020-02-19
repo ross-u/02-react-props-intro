@@ -136,11 +136,6 @@ export default App;
 
 
 
-[Passing `props` to a component - Image](https://i.imgur.com/ZquC84W.jpg)
-
-![Passing `props` to a component - Image](https://i.imgur.com/ZquC84W.jpg)<br>
-
-
 
 ##### `MyComponent.js`
 
@@ -171,7 +166,13 @@ class MyComponent extends React.Component {
 export default MyComponent;
 ```
 
+<br>
 
+
+
+[Passing `props` to a component - Image](https://i.imgur.com/ZquC84W.jpg)
+
+![Passing `props` to a component - Image](https://i.imgur.com/ZquC84W.jpg)<br>
 
 
 
@@ -179,11 +180,12 @@ export default MyComponent;
 
 
 
-### [Summary of using `props` and `state` - Image](https://imgur.com/a/bw9DBQM)
+## Summary of using `props` and `state`
 
+<br>
 
-
-Images are included in the repo README
+[Summary of using `props` and `state` - Image](https://imgur.com/a/bw9DBQM)
+![Summary of using `props` and `state` - Image](https://imgur.com/a/bw9DBQM)
 
 
 
