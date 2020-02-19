@@ -184,8 +184,8 @@ export default MyComponent;
 
 <br>
 
-[Summary of using `props` and `state` - Image](https://imgur.com/a/bw9DBQM)
-![Summary of using `props` and `state` - Image](https://imgur.com/a/bw9DBQM)
+[Summary of using `props` and `state` - Image](https://i.imgur.com/ju1Ulxq.jpg)
+![Summary of using `props` and `state` - Image](https://i.imgur.com/ju1Ulxq.jpg)
 
 
 
