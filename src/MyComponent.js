@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+// class MyComponent extends React.Component {
+
 class MyComponent extends Component {
   state = {
     name: "Sarah",

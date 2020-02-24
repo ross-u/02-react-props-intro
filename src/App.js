@@ -13,9 +13,17 @@ class App extends React.Component {
         <MyComponent />
 
         <MyComponent city="Barcelona" />
+
+        <User firstName="YOUR NAME" />
       </div>
     );
   }
 }
+
+/* 
+<div>
+ <h1>Hello   YOUR NAME </h1>
+</div>
+*/
 
 export default App;
